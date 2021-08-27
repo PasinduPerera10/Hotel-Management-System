@@ -4,7 +4,7 @@ Please go under edit and edit this file as needed for your project
 # Batch - Malabe Group 02
 ### Group Leader - IT20152864 - Mr. Perera K.A.P.M (PasinduPerera10)
 ### Member 2 - IT20153304 - Mr. Prabashwara N.V.B (buddhimaprabashwara)
-### Member 3 - IT20179380- Mr. Jayawardana C.K (IT20179380)
+### Member 3 - IT20179380- Mr. Jayawardana C.K (chamodpro)
 ### Member 4 - IT19969442 - Mr. Walage P.V (paminduvimansa)
 ### Member 5 - IT20178772 - Mr. G.A Kawindu Lukshan (KawinduLukshan)
 ### Member 6 - IT20001834 - Ms. Thilakarathna K.V.R.G (IT20001834)
