@@ -21,7 +21,7 @@ app.use(roomRoutes);
 app.use(fileUpload());
 
 const PORT = 8070;
-const DB_URL = 'mongodb+srv://pasindu:pasindu@cluster0.mphbq.mongodb.net/HotelManagementSystem?retryWrites=true&w=majority';
+const DB_URL = 'mongodb+srv://group11:group11@cluster0.ruwbl.mongodb.net/HotelManagementSystem?retryWrites=true&w=majority';
 
 mongoose.connect(DB_URL,{
     useCreateIndex: true,
